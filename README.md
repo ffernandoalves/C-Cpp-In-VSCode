@@ -25,7 +25,7 @@
     - ![variáveis ​​de ambiente](images/var_amb.png)
 4. Selecione **`Path`** depois clique em **`Editar`**.
     - ![variáveis ​​de ambiente](images/var_amb_path.png) 
-5. Clique em **`Novo`** e cole o caminho para os binários da instação das ferramentas do **Mingw-w64** (se você seguiu exatamente as instruções de instalação do site [MSYS2](https://www.msys2.org/), então será: **`C:\msys64\mingw64\bin`**).
+5. Clique em **`Novo`** e cole o caminho para os binários da instalação das ferramentas do **Mingw-w64** (se você seguiu exatamente as instruções de instalação do site [MSYS2](https://www.msys2.org/), então será: **`C:\msys64\mingw64\bin`**).
 6. Adicione também o caminho **`C:\msys64`** na variável de ambiente **`Path`**.
 7. Finalize tudo clicando nos "_OKs_".
 
